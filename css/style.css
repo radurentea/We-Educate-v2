@@ -145,10 +145,6 @@ background-color: #ecf6fd;
 
 
 /*==========TUTORIALS===========*/
-a.icon-link {
-    color:
-}
-
 /*----Modal----*/
 .modal-btn {
     border-color: var(--light-blue);
@@ -159,7 +155,6 @@ a.icon-link {
 }
 .modal-text{
     font-size: 1.2em;
-    color:
 }
 .modal-dialog{
     max-width: 1140px;
